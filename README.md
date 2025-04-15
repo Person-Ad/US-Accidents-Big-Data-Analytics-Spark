@@ -58,8 +58,8 @@ us-accidents-pyspark/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/us-accidents-pyspark.git
-cd us-accidents-pyspark
+git clone https://github.com/Person-Ad/BigData-Project
+cd BigData-Project
 ```
 
 ### 2. Install dependencies
