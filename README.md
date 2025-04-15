@@ -5,14 +5,6 @@
 
 This project uses **PySpark** to perform large-scale data processing and extract insightful trends from the **US Accidents Dataset** sourced from [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data). It demonstrates the power of distributed data processing to handle and analyze millions of records efficiently.
 
-Thanks! Looks like you're referring to the updated dataset stats:
-
-- **Size**: **3.06 GB**
-- **Rows**: **7,728,394**
-- Many **unique values**, likely referring to things like city names, weather conditions, or street names.
-
-Let’s update the README to reflect this more accurate and current data.
-
 ---
 
 
