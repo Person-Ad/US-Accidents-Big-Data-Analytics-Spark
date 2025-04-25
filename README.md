@@ -39,16 +39,22 @@ us-accidents-pyspark/
 │   └── exploration.ipynb         # Initial EDA using PySpark
 │
 ├── src/
-│   ├── preprocessing.py          # Data cleaning & transformation
-│   ├── insights.py               # Spark jobs for analysis
-│   └── utils.py                  # Helper functions
+│   ├── models/                   # Model-related scripts
+│   ├── data_ingestion.py         # Data loading script
+│   ├── data_preprocessing.py     # Data cleaning & transformation
+│   ├── evaluation.py             # Model evaluation script
+│   ├── feature_engineering.py    # Feature engineering script
+│   ├── main.py                   # Main script to run analysis
+│   ├── utils.py                  # Helper functions
+│   ├── visualization.py          # Visualization script
+│   ├── README.md                 # Project overview (inside src)
+│   └── run_analysis.py           # Script to run analysis
 │
 ├── output/
 │   └── visualizations/           # Plots and charts
 │
 ├── requirements.txt              # Dependencies
-├── README.md                     # Project overview
-└── run_analysis.py               # Main script to run analysis
+└── README.md                     # Project overview
 ```
 
 ---
