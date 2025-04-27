@@ -118,7 +118,7 @@ def convert_distance_km(df: DataFrame, col_name: str = "Distance") -> DataFrame:
     return df
 
 
-# 9. Convert and filter temperature (°F->°C, filter >60°C)
+# 9. Convert and filter temperature (°F->°C, filter >threshold)
 
 def convert_and_filter_temperature(
     df: DataFrame,
