@@ -1,4 +1,0 @@
-Logistic Regression: AUC=0.7297, F1=0.7492, Accuracy=0.8077
-Random Forest: AUC=0.7509, F1=0.7184, Accuracy=0.8053
-Gradient-Boosted Trees: AUC=0.8089, F1=0.7660, Accuracy=0.8192
-Decision Tree: AUC=0.6452, F1=0.7438, Accuracy=0.8112
